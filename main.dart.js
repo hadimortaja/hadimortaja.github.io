@@ -53800,7 +53800,7 @@ r=r.d
 if(r==null){r=self.window.devicePixelRatio
 if(r===0)r=1}r=s.d5(0,r)
 s=t.af
-return A.afY(A.vi(B.bT,A.a([q,A.ab_(55*p,A.adC(n,A.afV(A.a([A.adB(A.a([A.aa8("Welcome to\nFood Menu! New \ud83d\udc4b",B.iy,$.fH().rt(48),1,!0,B.cH),A.a1o(n,20*$.fH().gnY(),n),A.aa8("Lorem ipsum dolor sit amet, consectetur\nadipiscing elit, sed do eiusmod tempor\nincididunt ut labore et dolore magna aliqua.",B.j,$.fH().rt(18),n,!1,B.cH)],s),B.aS,B.cs)],s),B.dv,B.dw),n,n,n,n,r.a),n,n,n,n,n,n)],s),B.dX))}}
+return A.afY(A.vi(B.bT,A.a([q,A.ab_(55*p,A.adC(n,A.afV(A.a([A.adB(A.a([A.aa8("Welcome to\nFood Menu! \ud83d\udc4b",B.iy,$.fH().rt(48),1,!0,B.cH),A.a1o(n,20*$.fH().gnY(),n),A.aa8("Lorem ipsum dolor sit amet, consectetur\nadipiscing elit, sed do eiusmod tempor\nincididunt ut labore et dolore magna aliqua.",B.j,$.fH().rt(18),n,!1,B.cH)],s),B.aS,B.cs)],s),B.dv,B.dw),n,n,n,n,r.a),n,n,n,n,n,n)],s),B.dX))}}
 A.tz.prototype={
 am(){return new A.Jf()}}
 A.Jf.prototype={
